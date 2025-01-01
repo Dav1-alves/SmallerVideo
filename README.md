@@ -1,2 +1,2 @@
 # SmallerVideo
-Utilizando ffmpeg para comprimir vídeos
+Utilizando ffmpeg para compactar vídeos
